@@ -25,13 +25,16 @@ Launch example:
 Example of input file input.txt:
    ```sh
     files/main.py plagiat1/main.py
-    files/lossy.py plagiat2/lossy.py
-    files/lossy.py files/lossy.py
+   files/lossy.py plagiat2/lossy.py
+   files/lossy.py files/lossy.py
+   files/dtw_clustering.py plagiat1/dtw_clustering.py
+   files/dtw_clustering.py plagiat2/dtw_clustering.py
    ```
 Example of output file scores.txt:
    ```sh
-   0.63
-   0.84
-   0.153
+   0.9667644183773216
+   0.3258377425044092
+   1.0
+   0.9150743099787686
+   0.8471337579617835
    ```
-   
