@@ -11,13 +11,18 @@ This anti-plagiarism uses the Levenshtein distance method to find a similarity s
 
 
 To use this anti-plagiarism you will nedd a folder with the following files:
-1. ```compare.py ```
-2. ```input.txt ``` 
-3. ```scores.txt ```
+1. ```compare.py```
+2. ```input.txt``` 
+3. ```scores.txt```
 4. some folders with programs to compare
-5. folder ```files ``` with programs
-6. folder ```plagiat1 ``` with programs
-7. folder ```plagiat1 ``` with programs
+
+```input.txt``` is a file with pairs of paths to compared files.
+
+```scores.txt``` is a file in which similarity scores will be written.
+
+In an example lower I'll use folders: ```files```, ```plagiat1``` and ```plagiat1```.
+
+The anti-plagiarism can be launched using the ```Command line```.
 
 Launch example:
    ```sh
