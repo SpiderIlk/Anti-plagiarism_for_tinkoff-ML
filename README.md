@@ -16,7 +16,7 @@ To use this anti-plagiarism you will need a folder on your computer with the fol
 3. ```scores.txt```
 4. some folders with programs to compare
 
-input.txt is a file with pairs of paths to compared files.   scores.txt is a file in which similarity scores will be written.   In an example lower I'll use folders: files, plagiat1 and plagiat2.   You can find them in this repository.   The anti-plagiarism can be launched using the Command line.
+input.txt is a file with pairs of paths to compared files.   scores.txt is a file in which similarity scores will be written.   In an example below I'll use folders: files, plagiat1 and plagiat2.   You can find them in this repository.   The anti-plagiarism can be launched using the Command line.
 
 Launch example:
    ```sh
