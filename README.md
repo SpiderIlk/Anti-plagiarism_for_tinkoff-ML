@@ -9,6 +9,8 @@ This anti-plagiarism uses the Levenshtein distance method to find a similarity s
 
 ### How to use
 
+To use this anti-plagiarism you need to download code from ```sh compare.py ```
+
 Launch example:
    ```sh
    python3 compare.py input.txt scores.txt
