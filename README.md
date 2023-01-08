@@ -24,7 +24,7 @@ Launch example:
    ```
 Example of input file input.txt:
    ```sh
-    files/main.py plagiat1/main.py
+   files/main.py plagiat1/main.py
    files/lossy.py plagiat2/lossy.py
    files/lossy.py files/lossy.py
    files/dtw_clustering.py plagiat1/dtw_clustering.py
