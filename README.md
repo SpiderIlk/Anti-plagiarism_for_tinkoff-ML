@@ -9,7 +9,15 @@ This anti-plagiarism uses the Levenshtein distance method to find a similarity s
 
 ### How to use
 
-To use this anti-plagiarism you need to download code from ```compare.py ```
+
+To use this anti-plagiarism you will nedd a folder with the following files:
+1. ```compare.py ```
+2. ```input.txt ``` 
+3. ```scores.txt ```
+4. some folders with programs to compare
+5. folder ```files ``` with programs
+6. folder ```plagiat1 ``` with programs
+7. folder ```plagiat1 ``` with programs
 
 Launch example:
    ```sh
